@@ -1,0 +1,16 @@
+# Large generated forecast file
+**/road_forecast.json
+
+# Python cache files
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Generated output/cache
+*.db
+venv/
+.venv/
+__pycache__/
+*.pyc
